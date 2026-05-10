@@ -5,7 +5,7 @@ function Navbar() {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-b border-gray-100">
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link href="/" className="text-xl font-bold tracking-tight">
-          <span className="gradient-text">2cAI</span>
+          <span className="gradient-text">2c-AI</span>
         </Link>
         <div className="hidden md:flex items-center gap-8 text-sm text-gray-600">
           <a href="#vision" className="hover:text-gray-900 transition-colors">
@@ -263,7 +263,7 @@ function Contact() {
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
             </svg>
-            hello@2cai.com
+            2c-ai@gmail.com
           </a>
           <a
             href="#"
