@@ -48,7 +48,7 @@ function Hero() {
         <p className="animate-fade-in-up-delay-2 text-lg md:text-xl text-gray-500 max-w-2xl mx-auto mb-12 leading-relaxed">
           透過尖端人工智能，革新生活與產業，引領智慧新時代。我們致力於發展前瞻性 AI 產品，強化科技自立自強，發展新質生產力。
           <br />
-          <span className="text-gray-400 text-base">Via AI, Win-Win</span>
+          {/* <span className="text-gray-400 text-base">Via AI, Win-Win</span> */}
         </p>
         <div className="animate-fade-in-up-delay-2">
           <a
