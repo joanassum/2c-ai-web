@@ -41,12 +41,12 @@ function Hero() {
           Artificial Intelligence for Better Living
         </p>
         <h1 className="animate-fade-in-up-delay text-5xl md:text-7xl font-bold leading-tight mb-8">
-          <span className="gradient-text">AI 賦能</span>
+          <span className="gradient-text">AI 智慧賦能</span>
           <br />
-          <span className="text-[#1a1a2e]">美好生活</span>
+          <span className="text-[#1a1a2e]">共創未來</span>
         </h1>
         <p className="animate-fade-in-up-delay-2 text-lg md:text-xl text-gray-500 max-w-2xl mx-auto mb-12 leading-relaxed">
-          以人工智能技術驅動創新，構建共贏生態
+          透過尖端人工智能，革新生活與產業，引領智慧新時代。我們致力於發展前瞻性 AI 產品，強化科技自立自強，發展新質生產力。
           <br />
           <span className="text-gray-400 text-base">Via AI, Win-Win</span>
         </p>
@@ -227,15 +227,15 @@ function About() {
         <div className="grid md:grid-cols-3 gap-8 mt-16">
           <div className="text-center">
             <div className="text-3xl font-bold gradient-text mb-2">願景</div>
-            <p className="text-gray-500 text-sm">AI 賦能美好生活</p>
+            <p className="text-gray-500 text-sm">AI 賦能，共創美好生活。透過人工智能的創新應用，為全球用戶帶來更智慧、更高效、更人性化的生活體驗。</p>
           </div>
           <div className="text-center">
             <div className="text-3xl font-bold gradient-text mb-2">價值</div>
-            <p className="text-gray-500 text-sm">Via AI, Win-Win</p>
+            <p className="text-gray-500 text-sm">透過 AI 實現共贏。我們相信技術應該造福所有人，與合作夥伴、客戶和社會共同成長，創造可持續的價值。</p>
           </div>
           <div className="text-center">
             <div className="text-3xl font-bold gradient-text mb-2">使命</div>
-            <p className="text-gray-500 text-sm">科技自立自強 · 新質生產力</p>
+            <p className="text-gray-500 text-sm">發展 AI 產品，強化科技自立自強，發展新質生產力。聚焦人工智能等重點領域，為國家科技創新貢獻力量。</p>
           </div>
         </div>
       </div>
